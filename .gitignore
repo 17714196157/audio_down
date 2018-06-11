@@ -1,0 +1,6 @@
+/.idea
+*.log
+__pycache__
+*.wav
+*.pyc
+/consumer/.idea

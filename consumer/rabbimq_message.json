@@ -1,0 +1,12 @@
+{
+     "task_id": "2",
+     "download": [
+     "/tmp/down_wav/13406102900_1520316826_1527721_4.wav",
+     "/tmp/down_wav/13405468886_1520317272_1527819_3.wav",
+     "/tmp/down_wav/13405468383_1520304065_1527134_4vad.wav",
+     "/tmp/down_wav/13405468368_1520310914_1527407_3.wav",
+	 "/tmp/down_wav/13405468251_1520307108_1527204_3.wav",
+       "http://global.res.btows.com/data/record/152568562020180507/13815443105_1525685566_4595631_4.wav"
+	 ],
+     "url": "http://test.btows.com/admin/ajax/notify_task_download_call_voice.php"
+}
